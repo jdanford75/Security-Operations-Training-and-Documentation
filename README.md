@@ -1,7 +1,7 @@
 # Security Investigation, Documentation & Training Development
 
-**Professional experience portfolio — employer-neutral teaching examples**  
-**Author and instructional designer:** Jack W. Danford Jr.
+**Sample training materials based on my work in investigations and security operations.**  
+**Author:** Jack W. Danford Jr.
 
 ## Overview
 
