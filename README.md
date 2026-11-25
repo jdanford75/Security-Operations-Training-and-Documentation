@@ -9,7 +9,8 @@ This portfolio presents **new generalized training materials** built from invest
 
 ## Deliverables
 
-- [Security Investigation Training Deck (PPTX)](Security_Investigation_Training_Deck.pptx) — 12-slide generic training presentation
+- **[View slides (PDF)](Security_Investigation_Training_Deck.pdf)**
+- [Download PowerPoint](Security_Investigation_Training_Deck.pptx)
 - [Incident Documentation Checklist (DOCX)](Incident_Documentation_Checklist.docx) — practical quality-control checklist
 - [Scenario Practice Guide (DOCX)](Scenario_Practice_Guide.docx) — five fictional practice scenarios and instructor prompts
 - [FTO Coaching Template (DOCX)](FTO_Coaching_Template.docx) — neutral, blank coaching and review framework
