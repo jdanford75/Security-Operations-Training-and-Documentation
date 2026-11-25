@@ -1,39 +1,25 @@
-# Security Investigation, Documentation & Training Development
+# Basic Security Investigation and Report Writing
 
-**Sample training materials based on my work in investigations and security operations.**  
-**Author:** Jack W. Danford Jr.
+**Officer training portfolio · Jack W. Danford Jr.**
 
-## Overview
+I developed this training to help officers recognize problems early, gather facts while they’re available, and write reports a supervisor can understand without making a follow-up call. The 22-slide deck draws on my experience in investigations, field training, and security operations. It includes six practice scenarios that ask officers what they would verify, document, and escalate.
 
-This portfolio presents **new generalized training materials** built from investigative reporting, coaching, and security-operations teaching approaches developed by the author during professional service. The training work is distinct from the author’s academic cybersecurity labs. Its purpose is to show transferable skills in **security awareness, evidence-based reporting, standard operating procedures, employee coaching, process controls, and audit-ready documentation**.
+**[View the 22-slide deck (PDF)](Security_Investigation_Training_Deck.pdf)**  
+[Download PowerPoint](Security_Investigation_Training_Deck.pptx)
 
-## Deliverables
+## What the training covers
 
-- **[View slides (PDF)](Security_Investigation_Training_Deck.pdf)**
-- [Download PowerPoint](Security_Investigation_Training_Deck.pptx)
-- [Incident Documentation Checklist (DOCX)](Incident_Documentation_Checklist.docx) — practical quality-control checklist
+- **Facts vs. opinions.** Record what you saw, heard, and did. Separate observations from assumptions.
+- **Evidence and escalation.** Preserve supporting records, follow approved policy, and document who made the decision and what happened next.
+- **The No Follow-Up Call Standard.** Give the reviewer enough information to understand the timeline, actions, notifications, and outcome.
+- **Scenario practice.** Work through missing visitor authorization, an ID mismatch, an upset visitor, a firearm observation, missing photos, and pressure to bypass a process.
+
+## Supporting materials
+
+- [Incident Documentation Checklist (DOCX)](Incident_Documentation_Checklist.docx) — report review before submission
 - [Scenario Practice Guide (DOCX)](Scenario_Practice_Guide.docx) — five fictional practice scenarios and instructor prompts
-- [FTO Coaching Template (DOCX)](FTO_Coaching_Template.docx) — neutral, blank coaching and review framework
+- [FTO Coaching Template (DOCX)](FTO_Coaching_Template.docx) — blank framework for coaching and follow-up
 
-## Skills demonstrated
+**Portfolio scope.** This is an employer-neutral adaptation of workplace training. The examples are instructional, and officers should follow their organization’s approved policies.
 
-- Security training design and plain-language instruction
-- Incident documentation, chain-of-custody considerations, and evidence handling
-- Access-control decision escalation and exception accountability
-- Report-quality assurance and factual writing
-- Field training, constructive feedback, and continuous improvement
-- Translating operational security experience into governance and control frameworks
-
-## Authenticity and limitations
-
-- These materials are **new portfolio adaptations**, not exact copies of confidential work product.
-- Real personnel names, employment evaluations, actual incident reports, site-specific workflows, software integrations, access routes, emergency arrangements, and proprietary policy language were **not included**.
-- The original workplace materials were used solely as reference for general training methods; this portfolio does not represent employer approval, use, or endorsement.
-- The author has described creating and conducting professional training and coaching; this portfolio does **not** assert unverified training counts, outcomes, grades, or performance metrics.
-- Employers may own rights in materials created within employment duties; this portfolio contains newly written generic examples rather than the original employer files. Review any applicable employment/IP obligations before public publication.
-
-## Recommended GitHub topics
-
-`security-awareness` · `incident-reporting` · `security-operations` · `grc` · `training-development` · `policy-governance`
-
-**Related academic portfolio:** [GitHub profile](https://github.com/jdanford75)
+[Full cybersecurity and GRC portfolio](https://github.com/jdanford75)
